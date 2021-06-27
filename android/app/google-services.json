@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "131969038830",
+    "firebase_url": "https://shekhobabatestingapps.firebaseio.com",
+    "project_id": "shekhobabatestingapps",
+    "storage_bucket": "shekhobabatestingapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131969038830:android:fc6828f9c8cef6881636ff",
+        "android_client_info": {
+          "package_name": "co.shekhobaba.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131969038830-f0g8bl2mlba6b7vmgi9qclhfpip6lq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFK8u1ti8iT5TLKW54TkCBns7DmSOR3sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131969038830-f0g8bl2mlba6b7vmgi9qclhfpip6lq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131969038830:android:def919ab868f09d31636ff",
+        "android_client_info": {
+          "package_name": "gigtodo.teamtweaks.com.gigtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131969038830-f0g8bl2mlba6b7vmgi9qclhfpip6lq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFK8u1ti8iT5TLKW54TkCBns7DmSOR3sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131969038830-f0g8bl2mlba6b7vmgi9qclhfpip6lq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
